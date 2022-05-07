@@ -1,0 +1,7 @@
+s={1:[ 1,"anil","male","BCA","pass"],2:[2,"mani","female","Bsc","pass"] ,3:[3,"satya","male","bcom","pass"]}
+x=int(input(" enter the emp no "))
+print("sno:",s[x][0])
+print("sname:",s[x][1])
+print("sgender:",s[x][2])
+print(" sgroup:",s[x][3])
+print("sresult:",s[x][4])
